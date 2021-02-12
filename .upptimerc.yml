@@ -4,7 +4,7 @@ repo: Monitor # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: universable
+  - name: unvernisable
     url: https://www.unvernisable.tech
     
 status-website:
