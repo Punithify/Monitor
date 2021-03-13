@@ -6,6 +6,8 @@ repo: Monitor # Your GitHub repository name
 sites:
   - name: unvernisable
     url: https://www.unvernisable.tech
+  - name: snippets-quicky
+    url: https://snippets-quicky.vercel.app/
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
