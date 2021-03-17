@@ -8,8 +8,8 @@ sites:
     url: https://www.unvernisable.tech
   - name: snippets-quicky
     url: https://snippets-quicky.vercel.app
-   - name: Blog
-    url: https://unvernisable.hashnode.dev/
+  - name: Blog
+    url: https://unvernisable.hashnode.dev
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
