@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.unvernisable.tech",
     "slug": "unvernisable",
     "status": "down",
-    "uptime": "0.19%",
+    "uptime": "0.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.19%",
+    "uptimeYear": "0.18%",
     "time": 266,
     "timeDay": 164,
     "timeWeek": 312,
     "timeMonth": 272,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2021-05-02": 72,
+      "2021-05-02": 774,
       "2021-05-01": 1440,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
@@ -103,10 +103,10 @@
     "url": "https://snippets-quicky.vercel.app",
     "icon": "https://favicons.githubusercontent.com/snippets-quicky.vercel.app",
     "slug": "snippets-quicky",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
     "time": 201,
@@ -115,6 +115,7 @@
     "timeMonth": 175,
     "timeYear": 201,
     "dailyMinutesDown": {
+      "2021-05-02": 1,
       "2021-04-18": 48
     }
   },
@@ -141,9 +142,9 @@
     "url": "https://pokedex-rho-steel.vercel.app",
     "icon": "https://favicons.githubusercontent.com/pokedex-rho-steel.vercel.app",
     "slug": "pokedex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -152,6 +153,8 @@
     "timeWeek": 152,
     "timeMonth": 188,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-02": 0
+    }
   }
 ]
