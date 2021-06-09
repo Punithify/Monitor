@@ -16,7 +16,7 @@
     "timeMonth": 206,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2021-06-09": 68,
+      "2021-06-09": 1231,
       "2021-06-08": 1440,
       "2021-06-07": 1440,
       "2021-06-06": 1440,
@@ -141,9 +141,9 @@
     "url": "https://snippets-quicky.vercel.app",
     "icon": "https://favicons.githubusercontent.com/snippets-quicky.vercel.app",
     "slug": "snippets-quicky",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
@@ -153,6 +153,7 @@
     "timeMonth": 304,
     "timeYear": 230,
     "dailyMinutesDown": {
+      "2021-06-09": 0,
       "2021-05-15": 16,
       "2021-05-04": 25,
       "2021-05-02": 20,
